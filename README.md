@@ -5,7 +5,7 @@
 ## Dataset
 
 Link dataset of Online Shoppers Purchasing Intention Data can be found in: https://www.kaggle.com/datasets/airbnb/seattle
-The dataset consists the informations regarding 12,330 rows, including:
+The dataset consists the informations regarding 12,330 sessions, including:
 - Numerical columns:
   'Administrative',
    'Administrative_Duration',
