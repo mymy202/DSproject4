@@ -34,5 +34,5 @@ We will conduct a potential classification of a session based on information rec
 Using K-Mean Clustering or Mini Batch K- Mean model we can find potential customer's visit websites.
 
 ## Link
-code: https://www.kaggle.com/code/phamthimyhaofx15264/notebook861e0dd105
-blog: 
+- code: https://www.kaggle.com/code/phamthimyhaofx15264/notebook861e0dd105
+- blog: https://coal-caboc-088.notion.site/Data-Scientist-Capstone-783b5a6daa2f4693bd0c53748d6f3d90
