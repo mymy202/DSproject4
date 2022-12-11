@@ -37,3 +37,20 @@ Using K-Mean Clustering or Mini Batch K- Mean model we can find potential custom
 ## Link
 - code: https://www.kaggle.com/code/phamthimyhaofx15264/notebook861e0dd105
 - blog: https://coal-caboc-088.notion.site/Data-Scientist-Capstone-783b5a6daa2f4693bd0c53748d6f3d90
+
+## References
+- https://archive-beta.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mutual_info_score.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.completeness_score.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.homogeneity_score.html
+- https://stackoverflow.com/questions/49044131/how-to-add-data-labels-to-seaborn-countplot-factorplot
+- https://www.geeksforgeeks.org/3d-scatter-plotting-in-python-using-matplotlib/
+- https://seaborn.pydata.org/generated/seaborn.heatmap.html
+- https://www.datacamp.com/tutorial/random-forests-classifier-python
+- https://machinelearningmastery.com/clustering-algorithms-with-python/
+- https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/
+- https://neptune.ai/blog/clustering-algorithms
+-..
+
