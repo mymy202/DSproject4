@@ -26,18 +26,13 @@ The dataset consists the informations regarding 12,330 rows, including:
 
 ## Business understanding
 
-Questions: about Seattle¶
-1. Short-term rentals or longer-term rentals is the common rental in Seattle ?
-2. What group of price is the common rental in Seattle ?
-3. How a bout listings per host ? multiple listings or single listings is the common listing in Seattle ?
+We will conduct a potential classification of a session based on information recorded on a customer's visit to specific types of websites, valuable information about websites, visit behavior or time. customer access time. Each session belongs to a different user for a period of 1 year.
 
 
 ## Result of finding
 
-1. A lot of listing have minimum night are one night in seattle -> Short-term rentals is the common rental in Seattle
-2. The group of price is the common rental in Seattle is from 100dola to 200dola
-3. There are some host have multiple apartments or homes available in their entirity like Kara, Sseamless
-- There are a lot of host separate rooms in the same apartment (64% listing) in Seattle
+Using K-Mean Clustering or Mini Batch K- Mean model we can find potential customer's visit websites.
 
-## Link of blog
-https://coal-caboc-088.notion.site/Project-Writing-a-Data-Scientist-Blog-Post-fa4b0977a6f949f18ec6a3b1d1ab3a0f
+## Link
+code: https://www.kaggle.com/code/phamthimyhaofx15264/notebook861e0dd105
+blog: 
